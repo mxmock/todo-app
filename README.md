@@ -1,4 +1,4 @@
-# [Todo app]
+# Todo app
 To learn some notions of reactjs
 
 ## [Faire remonter l'état](https://fr.reactjs.org/docs/lifting-state-up.html)
