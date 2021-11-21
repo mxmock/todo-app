@@ -1,5 +1,6 @@
 # Todo app
 To learn some notions of reactjs
+Added some code from a new branch, based on nm-lifting-state-up
 
 ## [Faire remonter l'état](https://fr.reactjs.org/docs/lifting-state-up.html)
 
