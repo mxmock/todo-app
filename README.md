@@ -1,7 +1,7 @@
 # todo-app
-To learn reactjs notions
+To learn basic notions of reactjs
 
-# [Faire remonter l'état](https://fr.reactjs.org/docs/lifting-state-up.html)
+## [Faire remonter l'état](https://fr.reactjs.org/docs/lifting-state-up.html)
 
 Assez souvent plusieurs composants ont besoin de refléter les mêmes données dynamiques. Il est conseillé de faire remonter l'état partagé dans leur ancêtre commun le plus proche. Nous allons voir comment cela fonctionne.
 
