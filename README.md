@@ -12,3 +12,5 @@ Ensuite, si d'autres composants en ont également besoin, nous pouvons faire rem
 
 Faire remonter l'état implique une petite gymnastique mentale, qui nous force à écrire du code générique. Contrairement à des frameworks comme VueJs qui utilisent une liaison des données [bi-directionnelle](https://fr.vuejs.org/v2/guide/forms.html)
 
+---
+
